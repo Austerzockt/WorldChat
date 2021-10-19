@@ -13,7 +13,7 @@
 
     <description>Grouping the Chats of worlds together</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>16</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <url>auster.live</url>

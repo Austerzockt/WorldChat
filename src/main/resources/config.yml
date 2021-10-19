@@ -1,0 +1,9 @@
+worlds: # You can add as many Groups as you want.
+  group1:
+    - spawn
+    - overworld
+    - nether
+    - end
+  group2:
+    - hub1
+    - hub2

@@ -1,0 +1,8 @@
+name: World Chat
+version: '${project.version}'
+main: life.iwillnotmiss.worldchat.worldchat.WorldChat
+api-version: 1.17
+prefix: WorldChat
+authors: [ Auster ]
+description: Grouping the Chats of worlds together
+website: auster.live
